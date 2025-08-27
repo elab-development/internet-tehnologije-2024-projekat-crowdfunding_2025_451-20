@@ -29,3 +29,9 @@ Omogućava korisnicima da kreiraju kampanje, doniraju putem kripto novčanika i 
    ```bash
    git clone https://github.com/username/repo-name.git
    cd repo-name
+2. Instaliraj dependencije:
+   npm install
+3. Pokreni lokalno:
+   npm run dev
+4. Otvori u browseru:
+   http://localhost:3000
