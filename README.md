@@ -1,39 +1,31 @@
-# 🪙 Crowdfunding dApp
+# 🚀 Crowdfunding dApp
 
-Decentralizovana crowdfunding aplikacija zasnovana na blockchain tehnologiji.  
-Korisnici mogu da kreiraju svoje kampanje, pregledaju postojeće projekte i doniraju sredstva koristeći kriptovalute.
+Decentralizovana aplikacija (dApp) za kreiranje i finansiranje kampanja putem **Ethereum blockchaina**.  
+Omogućava korisnicima da kreiraju kampanje, doniraju putem kripto novčanika i prate transparentnost transakcija korišćenjem pametnih ugovora.
 
 ---
 
-## 🚀 Funkcionalnosti
-
-- ✨ **Kreiranje kampanje** – korisnik može pokrenuti sopstvenu crowdfunding kampanju.  
-- 📂 **Pregled mojih kampanja** – dashboard sa listom kampanja koje je korisnik pokrenuo.  
-- 🔍 **Detalji kampanje** – prikaz imena, opisa, cilja, roka i statusa kampanje.  
-- 💰 **Donacije** – korisnici mogu finansijski podržati projekte direktno preko pametnog ugovora.  
-- ⛓️ **Sigurnost** – sredstva su zaključana na pametnom ugovoru do ispunjenja cilja ili isteka roka.  
+## ✨ Funkcionalnosti
+- Kreiranje crowdfunding kampanja (naziv, opis, cilj, rok)
+- Pregled aktivnih kampanja i detalja
+- Doniranje kampanjama putem MetaMask novčanika
+- Više nivoa finansiranja (tiers)
+- Pregled sopstvenih kampanja i aktivnosti korisnika
+- Transparentnost i sigurnost transakcija putem pametnih ugovora
+- Upravljanje statusom kampanje (uspešna, neuspešna, aktivna)
 
 ---
 
 ## 🛠️ Tehnologije
-
-- **Frontend:** React + Next.js  
-- **UI:** Tailwind CSS  
-- **Blockchain integracija:** thirdweb + ethers.js  
-- **Pametni ugovori:** Solidity (Factory pattern za kreiranje kampanja)  
-- **Blockchain mreža:** Ethereum Sepolia testnet  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Blockchain:** Solidity, Ethereum (Sepolia testnet)  
+- **Wallet integracija:** Thirdweb, Wagmi, MetaMask  
+- **Backend logika:** Crowdfunding.sol i CrowdfundingFactory.sol pametni ugovori  
 
 ---
 
-## 📂 Struktura projekta
-
-/src
- ├── app/                 # Next.js stranice
- ├── components/          # React komponente (npr. MyCampaignCard)
- ├── constants/           # Adrese i ABI pametnih ugovora
- ├── contracts/           # Solidity fajlovi
- └── utils/               # Pomoćne funkcije
-
----
-
-
+## ⚡ Instalacija i pokretanje
+1. Kloniraj repozitorijum:
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
