@@ -28,11 +28,11 @@ Korisnici mogu da kreiraju svoje kampanje, pregledaju postojeće projekte i doni
 ## 📂 Struktura projekta
 
 /src
-├── app/ # Next.js stranice
-├── components/ # React komponente (npr. MyCampaignCard)
-├── constants/ # Adrese i ABI pametnih ugovora
-├── contracts/ # Solidity fajlovi
-└── utils/ # Pomoćne funkcije
+ ├── app/                 # Next.js stranice
+ ├── components/          # React komponente (npr. MyCampaignCard)
+ ├── constants/           # Adrese i ABI pametnih ugovora
+ ├── contracts/           # Solidity fajlovi
+ └── utils/               # Pomoćne funkcije
 
 
 
