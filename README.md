@@ -42,16 +42,17 @@ Omogućava korisnicima da kreiraju kampanje, doniraju putem kripto novčanika i 
 ---
 
 🔗 Pametni ugovori
-      Crowdfunding.sol – logika za pojedinačne kampanje
-      CrowdfundingFactory.sol – kreiranje i evidencija više kampanja
+    -  Crowdfunding.sol – logika za pojedinačne kampanje
+    -  CrowdfundingFactory.sol – kreiranje i evidencija više kampanja
 
 Deployovani na: Sepolia Testnet
 
 👛 Wallet integracija
 
-   Povezivanje putem MetaMask novčanika
-   Transakcije se obavljaju kroz Thirdweb React komponentu
+- Povezivanje putem MetaMask novčanika
+- Transakcije se obavljaju kroz Thirdweb React komponentu
 
 🤝 Autori
-   Ivana Dostanic ()
+   Ivana Dostanic
+
 
