@@ -34,5 +34,6 @@ Korisnici mogu da kreiraju svoje kampanje, pregledaju postojeće projekte i doni
  ├── contracts/           # Solidity fajlovi
  └── utils/               # Pomoćne funkcije
 
+---
 
 
