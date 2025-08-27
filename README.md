@@ -47,12 +47,16 @@ Omogućava korisnicima da kreiraju kampanje, doniraju putem kripto novčanika i 
 
 Deployovani na: Sepolia Testnet
 
+---
+
 👛 Wallet integracija
 
 - Povezivanje putem MetaMask novčanika
 - Transakcije se obavljaju kroz Thirdweb React komponentu
 
+---
 🤝 Autori
    Ivana Dostanic
+
 
 
